@@ -21,7 +21,6 @@
    ```bash
    # On macOS and Linux:
    source venv/bin/activate
-   ```bash
    # On Windows:
    venv\Scripts\activate
 
