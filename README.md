@@ -14,20 +14,18 @@
    cd OptiQuant
 
 2. **Set Up a Virtual Environment** (recommended):
-   # Create a virtual environment to isolate dependencies:
    ```bash
    python3 -m venv venv
 
 3. **Activate the Virtual Environment**:
+   ```bash
    # On macOS and Linux:
-   ```bash
    source venv/bin/activate
-   # On Windows:
    ```bash
+   # On Windows:
    venv\Scripts\activate
 
 4. **Install dependencies**:
-   # Use `requirements.txt` to install all necessary Python packages:
    ```bash
    pip3 install -r requirements.txt
 
